@@ -1,6 +1,6 @@
 
 ## WEB页面打开exe程序 Demo体验
-<a href="https://garsonzhang.github.io/WebStarWinform/openClientDemo.html" target="_blank">在线Demo</a>
+<a href="https://garsonzhang.github.io/WebStarWinform/Demo.html" target="_blank">在线Demo</a>
 
 ## Exe程序下载
 <a href="https://github.com/GarsonZhang/WebStarWinform/releases/download/V1.0.0/ClientDemo.rar" target="_blank">ClientDemo.rar</a>
